@@ -1,2 +1,5 @@
-# hw12
-The repository for hw12 to push the azure code to the Azure App Service
+# Cloud computing
+### hw12 - Azure Solutions
+
+This application runs in an Azure App Service and reads from an Azure MySQL server.
+The application uses Azure Key Vault to store database connection usernames and passwords.
